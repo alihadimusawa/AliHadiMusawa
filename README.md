@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
 - 🔭 I’m currently working on [HPV Vaccination Website](https://hpv-vaccination.up.railway.app/)
 
